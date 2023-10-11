@@ -1,11 +1,11 @@
 #include "function_pointers.h"
 #include <stdlib.h>
-#include <stdio.h>
 #include "3-calc.h"
+#include <stdio.h>
 /**
- * main - Prints the result of simple operations.
- * @argc: The number of arguments supplied to the program.
- * @argv: An array of pointers to the arguments.
+ * main - Prints the result
+ * @argc: The number of argnts supplied to the program.
+ * @argv: An array of point to the arguments.
  *
  * Return: Always 0.
  */
